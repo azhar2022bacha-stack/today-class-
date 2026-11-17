@@ -1,0 +1,8 @@
+/* 1. Target the whole page */
+body {
+  background-color: #f4f4f4; /* Light gray background */
+  font-family: Arial, sans-serif; /* Clean, readable text font */
+  color: #333333;            /* Dark gray text color */
+  margin: 0;                 /* Removes default page margins */
+  padding: 20px;             /* Adds breathing room around edges */
+}
